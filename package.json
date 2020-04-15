@@ -24,7 +24,7 @@
     "discord-anti-spam": "^1.1.2",
     "discord.js": "^11.4.2",
     "discord.js-commando": "^0.10.0",
-    "dogapi": "^2.8.2",
+    "dogapi": "^2.8.3",
     "es6-promise": "^4.2.5",
     "eslint": "^5.4.0",
     "express": "^4.15.2",
